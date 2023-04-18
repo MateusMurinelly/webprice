@@ -13,8 +13,6 @@
     </ul>
     <p>O objetivo deste projeto é demonstrar como podemos usar o Python e as bibliotecas Pandas e Selenium para realizar web scraping e extrair informações úteis de uma página da web.</p>
     <h2>Contribuindo</h2>
-    <p> sinta-se à vontade para abrir um pull request. Sua contribuição é bem-vinda!</p>
-    <h2>Licença</h2>
-    <p>Este projeto está licenciado sob a licença MIT. Consulte o arquivo <a href="LICENSE">LICENSE</a> para obter mais informações.</p>
-  </body>
+    <p>Se você gostou indique para um amigo, se não gostou😞 indique para um inimigo e também sinta-se à vontade para abrir um pull request. Sua contribuição é bem-vinda!</p>
+   </body>
 </html>
