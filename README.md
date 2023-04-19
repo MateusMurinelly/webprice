@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Web Scraping com Pandas e Selenium</title>
   </head>
   <body>
     <h1>Web Scraping com Pandas e Selenium</h1>
